@@ -1,0 +1,9 @@
+node_modules
+tmp
+.vscode
+example
+audio
+.DS_STORE
+*.wav
+audio-char
+.env.*
